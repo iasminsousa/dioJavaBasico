@@ -28,7 +28,7 @@ public class Calculadora{
      System.out.println("Subtração= " +subtracao(num1,num2));
      System.out.println("Multiplicação= " +multiplicacao(num1,num2));
      System.out.println("Divisão= " +divisao(num1,num2));
-    
+    scan.close();
     }
 
 }
